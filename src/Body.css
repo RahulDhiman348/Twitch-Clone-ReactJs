@@ -1,0 +1,12 @@
+.body{
+    background-color: rgb(255,153,0);
+    background-image: url(https://img.freepik.com/free-vector/futuristic-technology-background_23-2148460426.jpg?w=1380&t=st=1663525865~exp=1663526465~hmac=0217aa6da3cfa32efd043950663ba9eb55882ab9f1883ddaec948086ec5e90b8);
+    flex: 1;
+    display: flex;
+    height: 100vh;
+    overflow-y: scroll;
+}
+
+.body-left {
+    width: 97%;
+}

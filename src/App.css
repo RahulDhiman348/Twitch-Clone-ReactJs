@@ -1,0 +1,7 @@
+*{
+  color: white;
+}
+
+.app-main{
+  display: flex;
+}
